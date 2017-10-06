@@ -8,6 +8,6 @@ import dagger.Component;
 
 @Component
 interface DiComponent {
-    void inject(MainActivity activity);
+    //void inject(MainActivity activity);
     void inject(Main2Activity main2Activity);
 }
